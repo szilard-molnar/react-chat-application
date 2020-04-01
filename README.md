@@ -33,7 +33,10 @@ If if either user decides to log out, they just simply has to click the "X" butt
 ![app screenshot](/images/logout.png)
 
 
+The application recognizes emojis as well.
 
-You can try the app clicking the link below, hope you will enjoy!!!
+
+
+You can try the app clicking the link below, hope you will enjoy!!! 
 
 https://priceless-archimedes-c2a5ba.netlify.com/?fbclid=IwAR2epbJ7MPnQ87N5ueUvrl2V9h_-0Lwy_cvpq9UIfFmrFTcIAgRQK5Ueg98
